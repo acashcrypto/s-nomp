@@ -38,7 +38,7 @@
         "maxBlocksPerPayment": 3,
         "daemon": {
             "host": "127.0.0.1",
-            "port": 1979,
+            "port": 2022,
             "user": "rpcuser",
             "password": "rpcpassword"
         }
