@@ -2,15 +2,10 @@
     "name": "acash",
     "symbol": "ach",
     "algorithm": "equihash",
-    "parameters": {
-        "N": 200,
-        "K": 9,
-        "personalization": "ACASH"
-    },
     "requireShielding": true,
     "payFoundersReward": true,
     "percentFoundersReward": 10,
-    "foundersRewardAddressChangeInterval": 14000,
+    "foundersRewardAddressChangeInterval": 102941,
     "maxFoundersRewardBlockHeight": 3500000,
     "vFoundersRewardAddress": [
      "t3bFpARcsV3V1cybhk5r7LDhqh59DrQukao",
